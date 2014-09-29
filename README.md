@@ -1,4 +1,4 @@
 rlnes
 =====
 
-Git Repository for Reply machine mearninng hackathon 2014
+Git Repository for Reply machine learninng hackathon 2014
